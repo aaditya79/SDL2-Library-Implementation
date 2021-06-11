@@ -1,4 +1,4 @@
-# Window-Display
+# Window Display
 Created a window display using C++ in conjunction with the SDL2 library. 
 
 The following outcomes were met through exploring the SDL2 library:
